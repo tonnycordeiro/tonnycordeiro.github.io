@@ -21,8 +21,9 @@
 > It is a game developed in C, with Allegro library, where two players compete to rescue the most part of castaways, avoiding have been stranded on coral reefs.
 
 [SQL Sample](https://github.com/tonnycordeiro/SQL_Sample)
-> Sample of database development skills
+> Sample of database development skills.
 
 [Menu Digital: YouTube](https://www.youtube.com/watch?v=pLLDiW5eZvs)
+> Digital menu interface used by customers to place direct orders inside of restaurants.
 
 
