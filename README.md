@@ -1,14 +1,24 @@
 ## Welcome to Tonny Cordeiro Pages
 
-[Geo Communication Library](https://github.com/tonnycordeiro/GeoCommunicationLibrary)
+### [Geo Communication Library](https://github.com/tonnycordeiro/GeoCommunicationLibrary)
+<span class="d-inline-block mr-3">
+  <span class="repo-language-color" style="background-color: #b07219"></span>
+  <span itemprop="programmingLanguage">Java</span>
+</span>
 > GeoCommunication is a library developed in Java by Renato Avila and Tonny Cordeiro that provides to Android developers a set of resources to create applications where a device can send a message to another one since the first is "pointing" at the second.
 - [Wiki](https://github.com/tonnycordeiro/GeoCommunicationLibrary/wiki)
 
-[Version Control Snapshot](https://github.com/tonnycordeiro/VersionControlSnapshot)
+## [Version Control Snapshot](https://github.com/tonnycordeiro/VersionControlSnapshot)
+<p class="mb-0 f6 text-gray">
+  <span class="d-inline-block mr-3">
+    <span class="repo-language-color" style="background-color: #178600"></span>
+    <span itemprop="programmingLanguage">C#</span>
+  </span>
+</p>
 >This library is used to make a machine snapshot, getting files and configurations mapped on a system files, network and/or a database, and to check-in the generated files in a repository on TFS, to enable verifying changes by its version comparer feature, purposing fast recovering data and server status.
 - [Wiki](https://github.com/tonnycordeiro/VersionControlSnapshot/wiki)
 
-[Comment About Website](https://github.com/tonnycordeiro/CommentAboutWebsite)
+# [Comment About Website](https://github.com/tonnycordeiro/CommentAboutWebsite)
 > A simple project architected with MVC pattern (using Vraptor) and mapped on database with Hibernate. This website enables users to create themes or search by what are stored through keywords; to query and create comments about them; and to edit the last ones.
 
 [ink2canvas Plugin](https://github.com/tonnycordeiro/ink2canvas)
