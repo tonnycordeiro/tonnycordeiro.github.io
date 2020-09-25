@@ -1,10 +1,3 @@
-
-
-<span>
-  <span style="background-color:#f1e05a;display:inline-block;position:relative;top:1px;display:inline-block;width:12px;height:12px;border-radius:50%;"></span>
-  <span >JavaScript</span>
-</span>
-
 ## Welcome to Tonny Cordeiro Projects
 
 ## [Geo Communication Library](https://github.com/tonnycordeiro/GeoCommunicationLibrary)
