@@ -17,13 +17,13 @@
 ## [Work Schedule Importer](https://github.com/tonnycordeiro/WorkScheduleImporter) ![C_Sharp](languages_logo/C_Sharp_logo.png)
 > A project architected with MVVM pattern that provides resources to import and validate the work schedule of ambulances' crews.
 
-## [CastawaysGame](https://github.com/tonnycordeiro/CastawaysGame) ![C_language](languages_logo/C_logo.png)
+## [CastawaysGame](https://github.com/tonnycordeiro/CastawaysGame) ![C_language](languages_logo/C_logo.jpg)
 > Game developed in C, with Allegro library, where two players compete to rescue the most part of the castaways, avoiding been stranded on coral reefs.
 
-## [SQL Sample](https://github.com/tonnycordeiro/SQL_Sample) ![SqlServer](languages_logo/MS-SQL-Server_logo.png)] [![Oracle](languages_logo/Oracle_logo.png)
+## [SQL Sample](https://github.com/tonnycordeiro/SQL_Sample) ![SqlServer](languages_logo/MS-SQL-Server_logo.png) ![Oracle](languages_logo/Oracle_logo.png)
 > Sample of database development skills.
 
-## [Menu Digital: YouTube](https://www.youtube.com/watch?v=pLLDiW5eZvs)
+## [Menu Digital: YouTube](https://www.youtube.com/watch?v=pLLDiW5eZvs) ![Android](languages_logo/android_logo.jpg)
 > Digital menu interface used by customers to place direct orders inside of restaurants.
 
 
