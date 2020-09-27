@@ -8,7 +8,7 @@
 >This library is used to make a machine snapshot, getting files and configurations mapped on system files, network and/or a database, and to check-in the generated files in a repository on TFS, to enable verifying changes by its version comparer feature, purposing fast recovering data and server status.
 - [Wiki](https://github.com/tonnycordeiro/VersionControlSnapshot/wiki)
 
-## [Comment About Website](https://github.com/tonnycordeiro/CommentAboutWebsite) ![java](languages_logo/Java_logo.jpg)
+## [Comment About Website](https://github.com/tonnycordeiro/CommentAboutWebsite) ![js](languages_logo/JS_logo.png) ![java](languages_logo/Java_logo.jpg)
 > A simple project architected with MVC pattern (using Vraptor) and mapped on the database with Hibernate. This website enables users to create themes or search by what is stored through keywords, to query and create comments about them, and to edit the last ones.
 
 ## [ink2canvas Plugin](https://github.com/tonnycordeiro/ink2canvas) ![Python](languages_logo/Python_logo.png)
