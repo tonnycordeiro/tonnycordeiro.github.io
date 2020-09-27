@@ -1,7 +1,8 @@
 ## Welcome to Tonny Cordeiro Projects
 
-## [Geo Communication Library](https://github.com/tonnycordeiro/GeoCommunicationLibrary)
 [[https://github.com/tonnycordeiro/tonnycordeiro.github.io/blob/master/languages_logo/C_Sharp_logo.png|alt=C_Sharp_logo]]
+
+## [Geo Communication Library](https://github.com/tonnycordeiro/GeoCommunicationLibrary)
 >GeoCommunication is a library developed in Java by Renato Avila and Tonny Cordeiro that provides Android developers a set of resources to create applications where a device can send a message to another one since the first is "pointing" at the second.
 - [Wiki](https://github.com/tonnycordeiro/GeoCommunicationLibrary/wiki)
 
