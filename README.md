@@ -5,6 +5,7 @@
 - [Wiki](https://github.com/tonnycordeiro/GeoCommunicationLibrary/wiki)
 
 ## [Version Control Snapshot](https://github.com/tonnycordeiro/VersionControlSnapshot)
+[[https://github.com/tonnycordeiro/resources/blob/master/languages_logo/C_Sharp_logo.png|alt=C_Sharp_logo]]
 >This library is used to make a machine snapshot, getting files and configurations mapped on a system files, network and/or a database, and to check-in the generated files in a repository on TFS, to enable verifying changes by its version comparer feature, purposing fast recovering data and server status.
 - [Wiki](https://github.com/tonnycordeiro/VersionControlSnapshot/wiki)
 
