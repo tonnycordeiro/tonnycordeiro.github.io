@@ -22,6 +22,7 @@
 
 ## [CastawaysGame](https://github.com/tonnycordeiro/CastawaysGame) ![C_language](languages_logo/C_logo.jpg)
 > Game developed in C, with Allegro library, where two players compete to rescue the most part of the castaways, avoiding been stranded on coral reefs.
+
 ![Castaways](project_image/Castaways.png)
 
 ## [Menu Digital](https://www.youtube.com/watch?v=4fhb3NVLdss&t=1s) ![Android](languages_logo/android_logo.jpg)
