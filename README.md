@@ -1,5 +1,11 @@
 ## Welcome to Tonny Cordeiro's Projects
 
+## [Billing System](https://github.com/tonnycordeiro/BillingSystem) ![C_Sharp](languages_logo/C_Sharp_logo.png)
+>A microservice billing system that implements "Producer Consumer" and "Map Reduce" patterns.
+
+## [Network Log Parse Manager](https://github.com/tonnycordeiro/NetworkLogParseManager) ![C_Sharp](languages_logo/C_Sharp_logo.png)
+>A concurrent log parser system that streams large network log information.
+
 ## [Geo Communication Library](https://github.com/tonnycordeiro/GeoCommunicationLibrary) ![java](languages_logo/Java_logo.jpg)
 >GeoCommunication is a library developed in Java by Renato Avila and Tonny Cordeiro that provides Android developers a set of resources to create applications where a device can send a message to another one since the first is "pointing" at the second.
 - [Wiki](https://github.com/tonnycordeiro/GeoCommunicationLibrary/wiki)
